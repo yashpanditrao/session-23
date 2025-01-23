@@ -7,4 +7,4 @@ To run this application, you'll need to set up the following environment variabl
 - `SUPABASE_URL`: Your Supabase project URL. Found in your Supabase project settings
 - `SUPABASE_ANON_KEY`: Your Supabase anonymous key. Found in your Supabase project API settings
 
-npm install (react folder)
+type: `npm install` to install all the JS packages
